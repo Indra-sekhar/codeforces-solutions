@@ -1,11 +1,11 @@
 {
-  "totalSolved": 4,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-09-24",
+  "totalSolved": 5,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-09-25",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 2,
     "hard": 0,
     "basic": 0
@@ -14,15 +14,17 @@
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
     "LeetCode_Largest_Local_Values_in_a_Matrix": true,
     "LeetCode_Minimum_Operations_to_Reduce_X_to_Zero": true,
-    "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true
+    "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
+    "LeetCode_Concatenate_Array_With_Reverse": true
   },
   "activityHistory": {
     "2026-09-21": 1,
     "2026-09-22": 1,
     "2026-09-23": 1,
-    "2026-09-24": 1
+    "2026-09-24": 1,
+    "2026-09-25": 1
   },
   "todayProblems": [
-    "Smallest Index With Digit Sum Equal to Index"
+    "Concatenate Array With Reverse"
   ]
 }
