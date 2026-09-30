@@ -1,12 +1,12 @@
 {
-  "totalSolved": 7,
-  "currentStreak": 2,
+  "totalSolved": 8,
+  "currentStreak": 3,
   "maxStreak": 5,
-  "lastSyncDate": "2026-09-29",
+  "lastSyncDate": "2026-09-30",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 0
   },
@@ -17,7 +17,8 @@
     "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
     "LeetCode_Concatenate_Array_With_Reverse": true,
     "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true,
-    "LeetCode_Minimum_Distance_Between_Three_Equal_Elements_I": true
+    "LeetCode_Minimum_Distance_Between_Three_Equal_Elements_I": true,
+    "LeetCode_Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings": true
   },
   "activityHistory": {
     "2026-09-21": 1,
@@ -26,9 +27,10 @@
     "2026-09-24": 1,
     "2026-09-25": 1,
     "2026-09-28": 1,
-    "2026-09-29": 1
+    "2026-09-29": 1,
+    "2026-09-30": 1
   },
   "todayProblems": [
-    "Minimum Distance Between Three Equal Elements I"
+    "Maximum Nesting Depth of Two Valid Parentheses Strings"
   ]
 }
